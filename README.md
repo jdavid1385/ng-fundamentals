@@ -1,11 +1,5 @@
 # Changes
-Removed the following devDependencies to deploy on heroku.
-
-    "@angular-devkit/build-angular": "^0.11.4",
-    "@angular/cli": "6.0.8",
-    "@angular/compiler-cli": "6.0.3",
-    "@angular/language-service": "6.0.3",
-
+Followed the instruction at https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 for heroku deployment
 # NgFundamentos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
