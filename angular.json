@@ -27,9 +27,13 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/ngf-bootstrap/dist/bootstrap.min.css",
               "src/styles.sass"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/ngf-bootstrap/dist/js/jquery.min.js",
+              "node_modules/ngf-bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
