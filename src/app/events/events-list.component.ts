@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
       <div *ngFor="let event of events" class="col-md-5">
         <event-thumbnail (eventClick)="handleEventClickled($event)" [event]="event"> </event-thumbnail>
       </div>
-                      </div>
+     </div>
     </div>
   `
 })
