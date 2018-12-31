@@ -8,7 +8,7 @@ Added Team Server, for that we need to issue (interactive):
 Pipelined:
 git remote add heroku https://heroku:341ec782-a18e-4933-a64a-705c8448b49c@git.heroku.com:443/shrouded-cove-14283.git
 
-[![Build status] (https://danuka.visualstudio.com/ng-fundamentos/_apis/build/status/ng-fundamentos-CI)](https://danuka.visualstudio.com/ng-fundamentos/_build/latest?definitionId=2)
+[![Build status](https://danuka.visualstudio.com/ng-fundamentos/_apis/build/status/ng-fundamentos-CI)](https://danuka.visualstudio.com/ng-fundamentos/_build/latest?definitionId=2)
 
 # NgFundamentos
 
