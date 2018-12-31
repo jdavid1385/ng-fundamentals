@@ -1,5 +1,15 @@
 # Changes
 Followed the instruction at https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147 for heroku deployment
+
+Added Team Server, for that we need to issue (interactive):
+    heroku login
+    git remote add heroku https://git.heroku.com/{app-name}.git
+
+Pipelined:
+git remote add heroku https://heroku:341ec782-a18e-4933-a64a-705c8448b49c@git.heroku.com:443/shrouded-cove-14283.git
+
+[![Build status] (https://danuka.visualstudio.com/ng-fundamentos/_apis/build/status/ng-fundamentos-CI)](https://danuka.visualstudio.com/ng-fundamentos/_build/latest?definitionId=2)
+
 # NgFundamentos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
