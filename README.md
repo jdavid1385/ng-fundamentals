@@ -6,7 +6,7 @@ Added Team Server, for that we need to issue (interactive):
     git remote add heroku https://git.heroku.com/{app-name}.git
 
 Pipelined:
-git remote add heroku https://heroku:341ec782-a18e-4933-a64a-705c8448b49c@git.heroku.com:443/shrouded-cove-14283.git
+git remote add heroku https://{api-key}@git.heroku.com:443/{app-name}.git
 
 [![Build status](https://danuka.visualstudio.com/ng-fundamentos/_apis/build/status/ng-fundamentos-CI)](https://danuka.visualstudio.com/ng-fundamentos/_build/latest?definitionId=2)
 
