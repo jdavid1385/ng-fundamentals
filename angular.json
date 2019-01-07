@@ -27,12 +27,14 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/toastr/build/toastr.min.css",
               "src/static/css/bootstrap.min.css",
               "src/styles.sass"
             ],
             "scripts": [
               "src/static/js/jquery.min.js",
-              "src/static/js/bootstrap.js"
+              "src/static/js/bootstrap.js",
+              "node_modules/toastr/build/toastr.min.js"
             ]
           },
           "configurations": {
